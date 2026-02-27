@@ -1,5 +1,11 @@
 # Git Practice Project
 
-Name: Rakib Bin Mahbub Talukder
+**Name:** Your Full Name  
+**Objective:** Demonstrate Git workflow with commits, branching, and merging
 
-This project demonstrates basic Git operations including commits, branching, and merging.
+## Features
+- Basic calculator functions (add, subtract)
+- Modular code structure
+- Error handling
+
+## Folder Structure
